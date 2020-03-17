@@ -1,0 +1,21 @@
+{
+  // ITEMS
+ 	"item.firstmod.example_item": "Example Item",
+ 	"item.firstmod.test_item": "Test Item",
+
+  //TOOLS
+  "item.firstmod.example_sword": "Example Sword",
+
+  //ARMOR
+  "item.firstmod.example_helmet": "Example Helmet",
+  "item.firstmod.example_chestplate": "Example Chestplate",
+  "item.firstmod.example_leggings": "Example Leggings",
+  "item.firstmod.example_boots": "Example Boots",
+
+  // BLOCKS
+  "block.firstmod.example_block": "Example Block",
+  "block.firstmod.example_ore": "Example Ore",
+
+  // TABS
+  "itemGroup.exampletab": "First Mod"
+}
